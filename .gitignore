@@ -3,5 +3,5 @@
 # Ne pas ignorer
 !.gitignore
 !README.md
-!logo
+!logo*
 !/TESTS
